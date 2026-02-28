@@ -1,5 +1,5 @@
 const USER_ID = "YOUR_USER_ID";
-const AUTH_TOKEN = "7TV_TOKEN"; // Replace with your auth token | can fetch by running `localStorage.getItem("7tv-token")` in your browser's console 
+const AUTH_TOKEN = "7TV_TOKEN"; // Replace with your 7tv token | can fetch by running `localStorage.getItem("7tv-token")` in your browser's console 
 const CHECK_INTERVAL = 10000;
 
 const GQL_ENDPOINT = "https://7tv.io/v4/gql";
